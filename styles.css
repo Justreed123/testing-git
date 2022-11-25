@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 1em;
+  border: 1px solid orange;
+}
+.box1 {
+  background: hsl(120, 100%, 50%);
+}
+.box2 {
+  background: hsl(120, 90%, 25%);
+}
+.box3 {
+  background: hsl(240, 100%, 50%);
+}
+.box4 {
+  background: hsl(0, 100%, 50%);
+}
+.box5 {
+  background: hsl(50, 100%, 50%);
+}
